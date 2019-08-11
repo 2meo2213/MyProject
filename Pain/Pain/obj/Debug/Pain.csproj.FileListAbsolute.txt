@@ -1,0 +1,12 @@
+D:\BackEnd C#\mini\Pain\Pain\bin\Debug\Pain.exe.config
+D:\BackEnd C#\mini\Pain\Pain\bin\Debug\Pain.exe
+D:\BackEnd C#\mini\Pain\Pain\bin\Debug\Pain.pdb
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.csprojResolveAssemblyReference.cache
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.Form1.resources
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.Properties.Resources.resources
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.csproj.GenerateResource.Cache
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.csproj.CoreCompileInputs.cache
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.exe
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.pdb
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.Form2.resources
+D:\BackEnd C#\mini\Pain\Pain\obj\Debug\Pain.Login.resources
